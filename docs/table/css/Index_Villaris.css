@@ -1,0 +1,79 @@
+body {
+	font-family: 'IM Fell English SC', serif;
+}
+body div:first-of-type span:first-of-type {
+	font-size: 150%;
+}
+#counties {
+	font-family: inherit;
+    font-size: 110%;
+    margin-bottom: 10px;
+}
+input#uncertain {
+	display: none;
+	top: 0.5em;
+    position: relative;
+}
+label[for=uncertain] {
+	display: none;
+	font-size: .7em;
+	top: 0.5em;
+	left: -0.4em;
+    position: relative;
+}
+#instructions {
+	font-family: monospace;
+    margin-bottom: 1em;
+    width: 57em;
+}
+#fulltable {
+	display: none;
+	background-color: #f6f6f6;
+	width: 45em;
+    text-align: left;
+    border-collapse: collapse;
+    user-select: none;
+}
+#fulltable tr {
+    line-height: 1em;
+}
+#fulltable.uncertain tbody tr.certain {
+    display: none;
+}
+#fulltable tbody tr:not(.certain) {
+    background-color: #dddddd;
+}
+#fulltable td, #fulltable th {
+    border: 1px solid #000;
+    padding: 3px 2px;
+}
+#fulltable td:first-of-type {
+	text-align: right;
+	white-space: nowrap;
+}
+#fulltable img {
+    height: 1.5em;
+    position: relative;
+    top: 0.06em;
+}
+#fulltable a {
+	color: black;
+}
+#fulltable a:hover {
+	color: red;
+}
+div.kvdb {
+    background-color: #e9e9e9;
+    font-family: monospace;
+    font-size: .8em;
+    padding-left: 0.7em;
+    border-radius: 0.5em;
+    border: 1px solid #e14f6e;
+}
+div.kvdb ul {
+    margin-top: 0;
+}
+div.kvdb li {
+    margin-left: -2.7em;
+    word-break: break-word;
+}

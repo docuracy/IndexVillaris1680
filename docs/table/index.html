@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--
+
+Copyright (C) 2022 Stephen Gadd - All Rights Reserved
+
+-->
+<head>
+	<meta charset="UTF-8">
+	<title>Index Villaris, 1680</title>
+	<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+	<script src="./js/jquery-3.6.0.min.js"></script>
+	<script src="./js/jquery-ui.min.js"></script>
+	<script src="./js/Index_Villaris.js"></script>
+	<link rel="stylesheet" href="./css/jquery-ui.min.css">
+	<link rel="stylesheet" href="./css/jquery-ui.theme.min.css">
+	<link rel="stylesheet" href="./css/Index_Villaris.css">
+	<link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+	<style>@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap');</style>
+	<style>:root {--bg-color: #f1a899!important}</style>
+	<base target="_blank">
+</head>
+<body>
+	<div>
+		<span>Index Villaris, 1680: </span><select name="counties" id="counties">
+			<option selected disabled>Loading ... Please Wait</option>
+		</select>
+		<input type="checkbox" id="uncertain" name="uncertain" value="uncertain">
+		<label for="uncertain">unlocated only</label>
+		<div id="instructions">
+			Without specialist local knowledge, it has proved impossible to identify the locations of about 5% of the 24,000 place-names recorded by John Adams in his <i>Index Villaris</i>. 
+			Difficulties are presented by combinations of unconventional spellings, incorrectly assigned counties or hundreds (county subdivisions), and sometimes by transcription or typographical errors in either or both of the geographical coordinates.
+			If you think you might be able to help with locating some of these places, please pick a county and tick the 'unlocated only' box. Clicking one of the underlined place-names will take you to a map view where you can make suggestions. For more details, please <a href="https://bit.ly/IV-Instructions">click here</a>.
+		</div>
+		<table id="fulltable">
+			<thead><tr><th></th><th>Place</th><th>Hundred &c.</th><th>County</th><th>Latit.</th><th>Longit.</th></tr></thead>
+			<tbody></tbody>
+		</table>
+	</div>
+</body>
+</html>
