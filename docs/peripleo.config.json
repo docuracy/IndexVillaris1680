@@ -38,6 +38,7 @@
     }
   ],
   "facets":[
+	  { "name": "certainty", "path": ["geometry", "certainty"] },
 	  { "name": "county", "path": ["properties", "county"] },
 	  { "name": "hundred", "path": ["properties", "hundred"] },
 	  { "name": "glyphs", "path": ["properties", "glyphs"] }
