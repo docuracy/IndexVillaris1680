@@ -33,7 +33,7 @@
     {
       "name": "Index Villaris, 1680", 
       "format": "LINKED_PLACES", 
-      "src": "./data/IV-GB1900-OSM-WD-uncertain.lp.json",
+      "src": "./data/IV-GB1900-OSM-WD-Peripleo.lp.json",
       "attribution":"<a href=\"https://viaeregiae.org/wiki/Index_Villaris\" target=\"_blank\">Index Villaris, 1680</a> © Stephen Gadd & Alexis Litvine"
     }
   ],
