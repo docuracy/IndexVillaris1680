@@ -27,10 +27,12 @@ function loadCounty(county){
 			else kvdb = '';
 			var coordinates = feature.geometry.geometries[feature.geometry.geometries.length - 1].coordinates;
 			var certainty = feature.geometry.geometries[0].certainty;
+			var relativeURL = `../#/10/${coordinates[0]}/${coordinates[1]}/mode=points+facet=suggestions+filters=certainty[(uncertain),(less-certain)],county[(${county})]+selected=IV%3A${id}`;
+    		var link = `<a href="${relativeURL}" target="IndexVillaris">`;
 			$('#fulltable tbody').append('<tr id="'+id+'" class="'+certainty+'">'
 				+'<td>'+glyphs+'</td>'
-				+(certainty=='certain'?'<td>'+feature.properties.title+'</td>':'<td><a href="../#/10/'+coordinates[0]+'/'+coordinates[1]+'/mode=points+facet=suggestions+filters=certainty[(uncertain),(less-certain)],county[('+county+')]+selected=IV%3A'+id+'">'+feature.properties.title+'</a>'+kvdb+'</td>')
-				+'<td>'+decodeURI(feature.properties.hundred.split(' (')[0])+'</td>'
+				+(certainty=='certain'?'<td>'+feature.properties.title+'</td>':`<td>${link}${feature.properties.title}</a>${kvdb}</td>`)
+        		+'<td>'+decodeURI(feature.properties.hundred.split(' (')[0])+'</td>'
 				+'<td>'+county+'</td>'
 				+'<td>'+coordinates[1]+'</td>'
 				+'<td>'+coordinates[0]+'</td>'
