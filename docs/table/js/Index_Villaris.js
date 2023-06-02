@@ -42,7 +42,7 @@ function loadCounty(county){
 
 $(document).ready(function() {
 	
-	$.get("../data/IV-GB1900-OSM-WD-Peripleo.lp.json", function(dataset, status){
+	$.get("../data/IV-GB1900-OSM-WD.lp.json", function(dataset, status){
 		data = dataset;
 		var kvdb=[];
 		$.ajax({
