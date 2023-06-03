@@ -20,7 +20,7 @@ function loadCounty(county){
 			var kvdb = [];
 			if ('kvdb' in feature) {
 				feature.kvdb.forEach(suggestion => {
-					kvdb.push((suggestion.Wikidata.label==null?'':(suggestion.Wikidata.label+': '))+suggestion.notes);
+					kvdb.push((suggestion.altTitle==''?'':(suggestion.altTitle+': '))+(suggestion.Wikidata.label==null?'':(suggestion.Wikidata.label+': '))+suggestion.notes);
 				})
 				kvdb = '<div class="kvdb">Suggestion'+(kvdb.length>1?'s':'')+':<ul><li>'+kvdb.join('</li><li>')+'</li></ul></div>';
 			}
@@ -31,7 +31,7 @@ function loadCounty(county){
     		var link = `<a href="${relativeURL}" target="IndexVillaris">`;
 			$('#fulltable tbody').append('<tr id="'+id+'" class="'+certainty+'">'
 				+'<td>'+glyphs+'</td>'
-				+(certainty=='certain'?'<td>'+feature.properties.title+'</td>':`<td>${link}${feature.properties.title}</a>${kvdb}</td>`)
+				+`<td>${link}${feature.properties.title}</a>`+`${kvdb}`+`</td>`
         		+'<td>'+decodeURI(feature.properties.hundred.split(' (')[0])+'</td>'
 				+'<td>'+county+'</td>'
 				+'<td>'+coordinates[1]+'</td>'
