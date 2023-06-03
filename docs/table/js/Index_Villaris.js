@@ -27,8 +27,10 @@ function loadCounty(county){
 			else kvdb = '';
 			var coordinates = feature.geometry.geometries[feature.geometry.geometries.length - 1].coordinates;
 			var certainty = feature.geometry.geometries[0].certainty;
-			var relativeURL = `../#/10/${coordinates[0]}/${coordinates[1]}/mode=points+facet=suggestions+filters=certainty[(uncertain),(less-certain)],county[(${county})]+selected=IV%3A${id}`;
-    		var link = `<a href="${relativeURL}" target="IndexVillaris">`;
+			var viewFacet = certainty ? 'glyphs' : 'suggestions';
+			var viewAdditionalFilters = certainty ? '' : 'certainty[(uncertain),(less-certain)],';
+			var relativeURL = `../#/10/${coordinates[0]}/${coordinates[1]}/mode=points+facet=${viewFacet}+filters=${viewAdditionalFilters}county[(${county})]+selected=IV%3A${id}`;
+    		var link = `<a href="${relativeURL}">`;
 			$('#fulltable tbody').append('<tr id="'+id+'" class="'+certainty+'">'
 				+'<td>'+glyphs+'</td>'
 				+`<td>${link}${feature.properties.title}</a>`+`${kvdb}`+`</td>`
