@@ -1,6 +1,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4748654.svg)](https://doi.org/10.5281/zenodo.4748654)
 # Index Villaris, 1680
-Index villaris, or, An alphabetical table of all cities, market-towns, parishes, villages, private seats in England and Wales. First published by [John Adams](https://en.wikipedia.org/wiki/John_Adams_%28cartographer%29) in 1680; this digital GIS edition transcribed, edited, extended, and curated by Stephen Gadd and Alexis Litvine. More information [here](https://viaeregiae.org/wiki/Index_Villaris).
+Index villaris, or, An alphabetical table of all cities, market-towns, parishes, villages, private seats in England and Wales. First published by [John Adams](https://en.wikipedia.org/wiki/John_Adams_%28cartographer%29) in 1680; this digital GIS edition transcribed, edited, extended, and curated by Stephen Gadd and Alexis Litvine. 24,000 place-names geolocated and linked to [GB1900](https://en.wikipedia.org/wiki/GB1900) place-names and to [OpenStreetMap](https://www.openstreetmap.org/) road nodes.
+
+More information [here](https://viaeregiae.org/wiki/Index_Villaris).
 
 > [!TIP]
 > Visualise the dataset on the accompanying [Interactive Map](https://docuracy.github.io/IndexVillaris1680/#/?/?/?/mode=points+facet=glyphs).
