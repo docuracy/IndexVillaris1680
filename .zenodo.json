@@ -22,11 +22,6 @@
       "resource_type": "dataset"
     }
   ],
-  "communities": [
-    {
-      "id": "gis"
-    }
-  ],
   "subjects": [
     {
       "term": "gazetteer",
