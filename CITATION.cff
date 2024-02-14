@@ -1,22 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-title: "Index Villaris, 1680"
+title: 'Index Villaris, 1680'
 message: >-
   If you use this dataset, please cite it using the metadata
   from this file.
 type: dataset
 authors:
-  - given-names: "Stephen James"
+  - given-names: Stephen James
     family-names: Gadd
-    orcid: "https://orcid.org/0000-0003-3060-0181"
-  - given-names: "Alexis"
+    orcid: 'https://orcid.org/0000-0003-3060-0181'
+  - given-names: Alexis
     family-names: Litvine
-    orcid: "https://orcid.org/0000-0003-0082-1004"
-repository-code: >-
-  https://github.com/docuracy/IndexVillaris1680
+    orcid: 'https://orcid.org/0000-0003-0082-1004'
+repository-code: 'https://github.com/docuracy/IndexVillaris1680'
 abstract: >-
-  Index villaris, or, An alphabetical table of all cities, market-towns, parishes, 
-  villages, private seats in England and Wales. First published by John Adams in 1680; 
-  this digital GIS edition transcribed, edited, extended, and curated by Stephen Gadd and Alexis Litvine.
+  Index villaris, or, An alphabetical table of all cities,
+  market-towns, parishes,  villages, private seats in
+  England and Wales. First published by John Adams in 1680; 
+  this digital GIS edition transcribed, edited, extended,
+  and curated by Stephen Gadd and Alexis Litvine.
 keywords:
   - ports
   - historical
@@ -24,8 +28,8 @@ keywords:
   - gazetteer
   - england
   - wales
-  - "place-names"
-  - "early modern"
+  - place-names
+  - early modern
   - map
   - towns
   - markets
