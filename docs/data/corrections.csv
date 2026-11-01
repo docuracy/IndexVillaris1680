@@ -1210,6 +1210,7 @@ IV:IV1680-060-42,Buckley,hundred,Broxtow (Cheshire),Broxton (Cheshire),printed '
 IV:IV1680-060-57,Bucksted,campop,,SSX.Buxted,link_iv_campop.py: wikidata
 IV:IV1680-060-60,Buckton,campop,,NTH.Boughton,link_iv_campop.py: wikidata
 IV:IV1680-061-01,Buckton,hundred,Tindale Ward (Northumberland),Islandshire (Northumberland),printed 'Islam': hundred-map.csv
+IV:IV1680-061-01,Buckton,campop,,NBL.Buckton,link_iv_campop.py: wikidata
 IV:IV1680-061-06,Buckworth,campop,,HUN.Buckworth,link_iv_campop.py: wikidata
 IV:IV1680-061-09,BUDDESDALE,campop,,SFK.Botesdale,link_iv_campop.py: wikidata
 IV:IV1680-061-14,Budleigh East,campop,,DEV.East-Budleigh,link_iv_campop.py: wikidata
@@ -1283,6 +1284,7 @@ IV:IV1680-064-59,Burstling,hundred,Waltham (Hampshire),Bishops Waltham (Hampshir
 IV:IV1680-065-05,Burstow,campop,,SRY.Burstow,link_iv_campop.py: wikidata
 IV:IV1680-065-09,Burtford,campop,,WIL.Britford,link_iv_campop.py: wikidata
 IV:IV1680-065-16,Burton,campop,,CHS.Burton,link_iv_campop.py: wikidata
+IV:IV1680-065-21,Burton,campop,,DOR.Burton-Bradstock,link_iv_campop.py: name
 IV:IV1680-065-32,Burton,campop,,LIN.Burton,link_iv_campop.py: wikidata
 IV:IV1680-065-33,BURTON,wikidata,Q5524410,Q746031,"the town's own item, as CAMPOP Places links it (LIN.Burton-upon-Stather): market-town-links.csv"
 IV:IV1680-065-33,BURTON,campop,,LIN.Burton-upon-Stather,link_iv_campop.py: name
@@ -1689,6 +1691,7 @@ IV:IV1680-082-13,Chilcot,hundred,Westminster (Middlesex),Ossulstone (Middlesex),
 IV:IV1680-082-14,Chilcot,hundred,Oflow (Staffordshire),Offlow (Staffordshire),printed 'Oflow': hundred-map.csv
 IV:IV1680-082-20,Childs Hill,hundred,Westminster (Middlesex),Ossulstone (Middlesex),printed 'Finsbury': hundred-map.csv
 IV:IV1680-082-24,Chilham,campop,,KEN.Chilham,link_iv_campop.py: wikidata
+IV:IV1680-082-30,Chillingham,campop,,NBL.Chillingham,link_iv_campop.py: wikidata
 IV:IV1680-082-33,Chillington,hundred,Cuttlestone (Staffordshire),East Cuttlestone (Staffordshire),printed 'Cudleston': hundred-map.csv
 IV:IV1680-082-34,Chilmark,campop,,WIL.Chilmark,link_iv_campop.py: wikidata
 IV:IV1680-082-38,Chiltern All-Saints,hundred,Amesbury (Wiltshire),Heytesbury (Wiltshire),printed 'Haresbury': hundred-map.csv
@@ -1700,6 +1703,7 @@ IV:IV1680-082-49,Chilton,wikidata,Q2483315,Q2125277,"research (high): Chilton Tr
 IV:IV1680-082-49,Chilton,point,"-3.0071897,51.1474087","-3.009,51.15","research (high): Chilton Trinity, Somerset. Chilton Trinity parish in Cannington hundred; Wikidata Q2125277. The current link (Chedzoy) and point were wrong."
 IV:IV1680-083-04,Chingford,campop,,ESS.Chingford,link_iv_campop.py: wikidata
 IV:IV1680-083-07,Chinner,campop,,OXF.Chinnor,link_iv_campop.py: wikidata
+IV:IV1680-083-12,Chipchase,campop,,NBL.Chipchase,link_iv_campop.py: name
 IV:IV1680-083-17,Chippenham,campop,,CAM.Chippenham,link_iv_campop.py: wikidata
 IV:IV1680-083-18,CHIPPEENHAM,campop,,WIL.Chippenham,link_iv_campop.py: wikidata
 IV:IV1680-083-19,Chipping,campop,,HRT.Chipping,link_iv_campop.py: wikidata
@@ -1876,6 +1880,7 @@ IV:IV1680-091-33,Colne Earls,campop,,ESS.Earls-Colne,link_iv_campop.py: name
 IV:IV1680-091-38,Colney,wikidata,Q2490153,Q3366058,"research (high): London Colney, Hertfordshire. Wikidata London Colney (Q3366058) is 0.7 km from the current point; the Shenley link is the neighbouring parish."
 IV:IV1680-091-46,Coltshall,campop,,NFK.Coltishall,link_iv_campop.py: name
 IV:IV1680-091-47,Coltsworth,hundred,Grantham (Lincolnshire),Grantham Borough And Soke (Lincolnshire),printed 'Grantham': hundred-map.csv
+IV:IV1680-091-47,Coltsworth,campop,,LIN.Colsterworth,link_iv_campop.py: name
 IV:IV1680-091-51,Columb John,wikidata,Q2614679,Q23682894,"research (high): Columbjohn, Broadclyst, Devon. Columb John is Columbjohn (Q23682894, -3.47688, 50.7877), where the current point is. The link Nether Exe is the neighbouring parish."
 IV:IV1680-091-52,COLUMB Magna,type,,market town,"title in large capitals: every city and market town is (checked on the page, 1 Nov 2026)"
 IV:IV1680-091-52,COLUMB Magna,campop,,CON.St-Columb-Major,link_iv_campop.py: by hand
@@ -2019,6 +2024,7 @@ IV:IV1680-099-39,Creke North,campop,,NFK.North-Creake,link_iv_campop.py: wikidat
 IV:IV1680-099-45,Cressingham Magna,wikidata,Q105272680,Q378220,"research (high): Great Cressingham, Norfolk. Cressingham Magna is Great Cressingham; the current point is in Great Cressingham parish (1851 parish polygons (geodata/historical_boundaries.gpkg)). Threxton Hill (current link) is a different place. The Wikidata item's coordinates duplicate Little Cressingham's, so the current point is kept."
 IV:IV1680-099-45,Cressingham Magna,campop,,NFK.Cressingham-Magna,link_iv_campop.py: name
 IV:IV1680-099-46,Cressingham Parva,wikidata,Q105272680,Q4036315,"research (high): Little Cressingham, Norfolk. Cressingham Parva is Little Cressingham; the current point is in that parish (1851 parish polygons (geodata/historical_boundaries.gpkg)). Threxton Hill (current link) is wrong."
+IV:IV1680-099-49,Creswell,campop,,PEM.Cresswell,link_iv_campop.py: name
 IV:IV1680-099-51,Creting All-Saints,hundred,Bosmere (Suffolk),Bosmere And Claydon (Suffolk),printed 'Bosmere': hundred-map.csv
 IV:IV1680-099-53,Creting St. Mary,hundred,Bosmere (Suffolk),Bosmere And Claydon (Suffolk),printed 'Bosmere': hundred-map.csv
 IV:IV1680-099-54,Creting St. Olave,hundred,Bosmere (Suffolk),Bosmere And Claydon (Suffolk),printed 'Bosmere': hundred-map.csv
@@ -2333,6 +2339,7 @@ IV:IV1680-114-18,Durham,campop,,GLS.Dyrham,link_iv_campop.py: wikidata
 IV:IV1680-114-24,Durley,hundred,Waltham (Hampshire),Bishops Waltham (Hampshire),printed 'Waltham': hundred-map.csv
 IV:IV1680-114-29,DURSLEY,campop,,GLS.Dursley,link_iv_campop.py: wikidata
 IV:IV1680-114-42,Dyhewyd,campop,,CGN.Dihewyd,link_iv_campop.py: wikidata
+IV:IV1680-114-43,Dyffrin,campop,,GLA.Dyffrin-Golywch,link_iv_campop.py: wikidata
 IV:IV1680-114-46,Dymmock,campop,,GLS.Dymock,link_iv_campop.py: wikidata
 IV:IV1680-114-49,DYNAS-MOUTHWYE,hundred,Ardudwy (Merionethshire),Talybont (Merionethshire),printed 'Mouthwye': hundred-map.csv
 IV:IV1680-114-49,DYNAS-MOUTHWYE,campop,,MER.Dinas-Mawddwy,link_iv_campop.py: wikidata
@@ -2389,6 +2396,7 @@ IV:IV1680-116-49,Wood Eaton,hundred,Cuttlestone (Staffordshire),East Cuttlestone
 IV:IV1680-116-51,Ebberston,hundred,Pickering (Yorkshire North Riding),Pickering Lythe (Yorkshire North Riding),printed 'Pickering': hundred-map.csv
 IV:IV1680-116-55,ECCLESHAL,campop,,STS.Eccleshall,link_iv_campop.py: wikidata
 IV:IV1680-116-56,Eccleston,hundred,Broxtow (Cheshire),Broxton (Cheshire),printed 'Broxton': hundred-map.csv
+IV:IV1680-116-57,Eccleston,campop,,LAN.Eccleston,link_iv_campop.py: wikidata
 IV:IV1680-117-02,Eckles,campop,,LAN.Eccles,link_iv_campop.py: wikidata
 IV:IV1680-117-05,Ecklesfield,hundred,Strafforth (Yorkshire West Riding),Strafforth And Tickhill (Yorkshire West Riding),printed 'Strafford': hundred-map.csv
 IV:IV1680-117-10,Eddisore,county,Hertfordshire,Buckinghamshire,"the point lies in Buckinghamshire; the book prints 'Buckingham', hundred 'Burnham'"
@@ -2548,6 +2556,7 @@ IV:IV1680-124-06,Evilton,campop,,SOM.Yeovilton,link_iv_campop.py: name
 IV:IV1680-124-10,Eulesay Barlow,hundred,Strafforth (Yorkshire West Riding),Strafforth And Tickhill (Yorkshire West Riding),printed 'Strafford': hundred-map.csv
 IV:IV1680-124-11,Euxton,campop,,LAN.Euxton,link_iv_campop.py: wikidata
 IV:IV1680-124-13,EWEL,campop,,SRY.Ewell,link_iv_campop.py: wikidata
+IV:IV1680-124-15,Ewenny,campop,,GLA.Ewenny,link_iv_campop.py: wikidata
 IV:IV1680-124-17,Ewerby,campop,,LIN.Ewerby,link_iv_campop.py: wikidata
 IV:IV1680-124-22,Ewrin Courtney,campop,,DOR.Iwerne-Courtney,link_iv_campop.py: wikidata
 IV:IV1680-124-27,Ex-hall,hundred,Coventry Liberty (Warwickshire),County Of The City Of Coventry (Warwickshire),printed 'Coventry Lib.': hundred-map.csv
@@ -3701,6 +3710,7 @@ IV:IV1680-184-39,Hysham,wikidata,Q23900634,Q1617039,"research (high): Heysham, L
 IV:IV1680-184-47,St. James,wikidata,Q845619,Q128803240,"research (high): Taunton St James parish, Somerset. St James's parish, Taunton; Wikidata Q128803240 (former civil parish Taunton St James), which has no coordinates, so the current point in Taunton is kept."
 IV:IV1680-184-49,St. James House,hundred,Westminster (Middlesex),Westminster City And Liberty (Middlesex),printed 'WESTMIN': hundred-map.csv
 IV:IV1680-184-50,St. James Park Lodg,hundred,Westminster (Middlesex),Westminster City And Liberty (Middlesex),printed 'WESTMIN.': hundred-map.csv
+IV:IV1680-184-51,Jamestone,campop,,PEM.Jameston,link_iv_campop.py: wikidata
 IV:IV1680-184-54,Jarro,campop,,DUR.Jarrow,link_iv_campop.py: wikidata
 IV:IV1680-184-56,Iberton,hundred,Whitchurch (Dorset),Whitchurch Canonicorum (Dorset),printed 'Whitchurch': hundred-map.csv
 IV:IV1680-184-59,Ibstock,campop,,LEI.Ibstock,link_iv_campop.py: wikidata
@@ -4253,6 +4263,7 @@ IV:IV1680-212-53,Lisset,hundred,Osgoldcross (Yorkshire East Riding),Holderness (
 IV:IV1680-213-08,Littleborn,campop,,KEN.Littlebourne,link_iv_campop.py: name
 IV:IV1680-213-09,Littleborough,campop,,LAN.Littleborough,link_iv_campop.py: wikidata
 IV:IV1680-213-10,Littleborough,hundred,North Clay (Nottinghamshire),Bassetlaw (Nottinghamshire),printed 'Northclay': hundred-map.csv
+IV:IV1680-213-10,Littleborough,campop,,NTT.Littleborough,link_iv_campop.py: wikidata
 IV:IV1680-213-21,Little port,hundred,Cheveley (Cambridgeshire),Isle Of Ely (Cambridgeshire),printed 'Ely': hundred-map.csv
 IV:IV1680-213-21,Little port,campop,,CAM.Littleport,link_iv_campop.py: wikidata
 IV:IV1680-213-22,Littleshall,campop,,NFK.Tittleshall,link_iv_campop.py: name
@@ -4375,6 +4386,7 @@ IV:IV1680-219-12,Llanlohayrne,hundred,Caereinion (Montgomeryshire),Newtown (Mont
 IV:IV1680-219-20,Llanmerywig,hundred,Caereinion (Montgomeryshire),Newtown (Montgomeryshire),printed 'Kidriorn': hundred-map.csv
 IV:IV1680-219-21,Llannan,campop,,CMN.Llanon,link_iv_campop.py: wikidata
 IV:IV1680-219-22,Llannon,campop,,CMN.Llanon,link_iv_campop.py: wikidata
+IV:IV1680-219-39,Llanridian,campop,,GLA.Llanrhidian,link_iv_campop.py: name
 IV:IV1680-219-41,LANROST,hundred,Rosse (Denbighshire),Isdulas (Denbighshire),printed 'Rosse': hundred-map.csv
 IV:IV1680-219-41,LANROST,campop,,DEN.Llanrwst,link_iv_campop.py: wikidata
 IV:IV1680-219-42,Llanrost,hundred,Rosse (Denbighshire),Isdulas (Denbighshire),printed 'Rosse': hundred-map.csv
@@ -4917,6 +4929,7 @@ IV:IV1680-244-55,Monk-Friston,hundred,Barkston (Yorkshire West Riding),Barkstone
 IV:IV1680-245-07,Monkton,hundred,Cliston (Devon),Colyton (Devon),printed 'Culliton': hundred-map.csv
 IV:IV1680-245-10,Monkton,hundred,Up-wimborne (Dorset),Monckton-Up-Wimborne (Dorset),printed 'Upwinborn': hundred-map.csv
 IV:IV1680-245-11,Monkton,campop,,KEN.Monkton,link_iv_campop.py: wikidata
+IV:IV1680-245-13,Monkton,campop,,PEM.Monkton,link_iv_campop.py: wikidata
 IV:IV1680-245-17,Monkton,wikidata,Q1234698,Q8026439,"research (high): Winterbourne Monkton, Wiltshire. The parish symbol and Adams figures fit. The link was Avebury."
 IV:IV1680-245-17,Monkton,point,"-1.8602665,51.4464085","-1.856,51.447","research (high): Winterbourne Monkton, Wiltshire. The parish symbol and Adams figures fit. The link was Avebury."
 IV:IV1680-245-22,MONMOTH,campop,,MON.Monmouth,link_iv_campop.py: wikidata
@@ -5227,6 +5240,7 @@ IV:IV1680-258-52,North-Wood,hundred,West Medina (Hampshire),West Medina Liberty 
 IV:IV1680-258-56,Norton,campop,,DUR.Norton,link_iv_campop.py: wikidata
 IV:IV1680-258-60,Norton,hundred,Wolphy (Hertfordshire),Odsey (Hertfordshire),printed 'Odsey': hundred-map.csv
 IV:IV1680-259-05,Norton,campop,,LIN.Nocton,link_iv_campop.py: wikidata
+IV:IV1680-259-10,Norton,campop,,RAD.Norton,link_iv_campop.py: wikidata
 IV:IV1680-259-14,Norton,hundred,Wenlock (Shropshire),Wenlock Borough (Shropshire),printed 'Wenlock': hundred-map.csv
 IV:IV1680-259-19,Norton,hundred,Oflow (Staffordshire),Offlow (Staffordshire),printed 'Oflow': hundred-map.csv
 IV:IV1680-259-24,Norton,hundred,West Medina (Hampshire),West Medina Liberty (Hampshire),printed 'W. Medine': hundred-map.csv
@@ -6412,6 +6426,9 @@ IV:IV1680-324-40,Sprotborough Hall,hundred,Strafforth (Yorkshire West Riding),St
 IV:IV1680-324-42,Sprowston,campop,,NFK.Sprowston,link_iv_campop.py: wikidata
 IV:IV1680-324-50,Spy,wikidata,Q55099234,Q7581743,"research (high): Spye Park, Bromham, Wiltshire. The point is at Spye Park House. The link was Stock."
 IV:IV1680-324-50,Spy,parish,,Q2018969,"research (high): Spye Park, Bromham, Wiltshire. The point is at Spye Park House. The link was Stock."
+IV:IV1680-324-53,Stack-pool,campop,,PEM.Stackpole,link_iv_campop.py: wikidata
+IV:IV1680-324-54,Stack-pool-orde,campop,,PEM.Stackpole,link_iv_campop.py: wikidata
+IV:IV1680-324-55,Stack-pool-orde,campop,,PEM.Stackpole,link_iv_campop.py: wikidata
 IV:IV1680-324-57,STAFFORD,campop,,STS.Stafford,link_iv_campop.py: wikidata
 IV:IV1680-324-59,Stafford East,hundred,Culliford (Dorset),Culliford Tree (Dorset),printed 'Culliford': hundred-map.csv
 IV:IV1680-325-01,Stafford West,hundred,Culliford (Dorset),Culliford Tree (Dorset),printed 'Cultford': hundred-map.csv
@@ -7844,6 +7861,7 @@ IV:IV1680-397-46,Wood-house,hundred,West Goscote (Leicestershire),Goscote (Leice
 IV:IV1680-397-55,Wood-house,hundred,East Medina (Hampshire),East Medina Liberty (Hampshire),printed 'E. Medine': hundred-map.csv
 IV:IV1680-397-56,Wood-house,hundred,Staincliffe (Yorkshire West Riding),Staincliffe And Ewcross (Yorkshire West Riding),printed 'Stainclif': hundred-map.csv
 IV:IV1680-397-59,Wood-house Hawsworth,hundred,Strafforth (Yorkshire West Riding),Strafforth And Tickhill (Yorkshire West Riding),printed 'Strafford': hundred-map.csv
+IV:IV1680-398-04,Wood-hurst,campop,,HUN.Woodhurst,link_iv_campop.py: wikidata
 IV:IV1680-398-05,Wood-land,hundred,West Ward (Cornwall),West (Cornwall),printed 'West': hundred-map.csv
 IV:IV1680-398-10,Wood-land,campop,,DOR.Woodland,link_iv_campop.py: wikidata
 IV:IV1680-398-11,Wood-land,hundred,Sutton Lath (Kent),Sutton at Hone Lath (Kent),printed 'Suton Lath': hundred-map.csv
